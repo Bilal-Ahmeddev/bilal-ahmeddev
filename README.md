@@ -23,6 +23,9 @@
 
 ## 🔗 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmedk17/)
+[![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://facebook.com/profile.php?id=100095259253278)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/_ahmedk17/)
+[![TikTok](https://img.shields.io/badge/-TikTok-000000?style=flat-square&logo=tiktok&logoColor=white)](https://tiktok.com/@_ahmedcodes)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&color=F7AB07&center=true&width=600&lines=Hi,+I'm+Bilal!;Frontend+Developer;React.js+|+Next.js+|+Node.js)](https://git.io/typing-svg)
 ![trophy](https://github-profile-trophy.vercel.app/?username=bilal-ahmeddev&theme=radical)
