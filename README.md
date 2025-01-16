@@ -7,7 +7,7 @@
 - 🌱 I’m learning **Next.js & TypeScript**
 - 👯 I’m looking to collaborate on **Open Source Projects**
 - 💬 Ask me about **JavaScript, React, GitHub Actions**
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ahmedk17/))  
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ahmedk17/)  
 
 ## 🛠 Tech Stack
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
