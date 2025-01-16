@@ -22,7 +22,7 @@
 ![Bilal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bilal-ahmeddev&show_icons=true&theme=radical)
 
 ## 🔗 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmedk17/)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&color=F7AB07&center=true&width=600&lines=Hi,+I'm+Bilal!;Frontend+Developer;React.js+|+Next.js+|+Node.js)](https://git.io/typing-svg)
 ![trophy](https://github-profile-trophy.vercel.app/?username=bilal-ahmeddev&theme=radical)
